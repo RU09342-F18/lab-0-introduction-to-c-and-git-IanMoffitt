@@ -4,6 +4,7 @@ An Example of this is:
    math(1,5,+)
 
 The math function is capable of running the following operations using the character listed as the operator passed in
+
 Operation       Char
 --------------------
 Addition        +
